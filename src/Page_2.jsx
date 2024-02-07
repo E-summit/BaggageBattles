@@ -12,8 +12,8 @@ function Page_2() {
 
       <div className="bg-black m-4 sm:m-8 md:m-12 lg:m-16 xl:m-20 rounded-md shadow-md mx-auto">
         <p className="text-white font-bold p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac libero in libero cursus bibendum.
-          Nullam id quam nec augue venenatis hendrerit at eget erat.
+          Baggage Battles- An event like storage wars with a twist of mystery,  Where excitement unfolds in each bid and mysterious bags hold secrets! Prepare to unleash your inner detective, and your keen eye for detail as you test your appetite for victory. With each bid, you could be one step closer to ultimate glory or is there a twist? Register now and find out what's in store.
+<br/>Are you ready for the thrill?
         </p>
       </div>
     </div>
